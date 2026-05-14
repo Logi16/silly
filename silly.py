@@ -1,0 +1,16 @@
+import time
+
+print("Mwahaha I'm installing malware")
+print("Installing: 0%")
+time.sleep(1)
+print("Installing: 23%")
+time.sleep(1)
+print("Installing: 44%")
+time.sleep(1)
+print("Installing: 78%")
+time.sleep(1)
+print("Installing: 100%")
+time.sleep(0.2)
+print("Installed!")
+time.sleep(2)
+print("Jk obv, just a fun test")
